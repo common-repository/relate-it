@@ -1,0 +1,8 @@
+.RelateIt-Plugin {width: 640px; margin-bottom: 20px; margin-top: 40px; float: left; font-size: 12px;}
+.RelateIt-Plugin h3 {font-size: 15px;}
+.RelateIt-thumb {margin: 0 1px 0 1px; float: left;}  
+.RelateIt-thumb img {margin: 0 0 3px 0; padding: 0; width: 100%; height: 100%}
+.RelateIt-thumb-image {border: 1px solid #cccccc; width: 102px; height: 102px; margin-bottom:4px; text-align:center;}
+.RelateIt-thumb a {text-decoration: none; display:block; padding: 10px; width: 105px; height: 170px; color:#000; line-height:normal;}  
+.RelateIt-thumb a:hover {background-color: #a47b51; color: #fff;} 
+
